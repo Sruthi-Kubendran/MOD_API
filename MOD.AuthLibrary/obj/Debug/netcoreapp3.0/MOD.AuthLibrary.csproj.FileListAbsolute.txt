@@ -1,0 +1,65 @@
+C:\Users\hp\source\repos\MOD Solution\MOD.AuthLibrary\bin\Debug\netcoreapp3.0\MOD.AuthLibrary.deps.json
+C:\Users\hp\source\repos\MOD Solution\MOD.AuthLibrary\bin\Debug\netcoreapp3.0\MOD.AuthLibrary.dll
+C:\Users\hp\source\repos\MOD Solution\MOD.AuthLibrary\bin\Debug\netcoreapp3.0\MOD.AuthLibrary.pdb
+C:\Users\hp\source\repos\MOD Solution\MOD.AuthLibrary\obj\Debug\netcoreapp3.0\MOD.AuthLibrary.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\MOD Solution\MOD.AuthLibrary\obj\Debug\netcoreapp3.0\MOD.AuthLibrary.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\MOD Solution\MOD.AuthLibrary\obj\Debug\netcoreapp3.0\MOD.AuthLibrary.AssemblyInfo.cs
+C:\Users\hp\source\repos\MOD Solution\MOD.AuthLibrary\obj\Debug\netcoreapp3.0\MOD.AuthLibrary.dll
+C:\Users\hp\source\repos\MOD Solution\MOD.AuthLibrary\obj\Debug\netcoreapp3.0\MOD.AuthLibrary.pdb
+C:\Users\hp\source\repos\MOD Solution\MOD.AuthLibrary\bin\Debug\netcoreapp3.0\MOD.ModelLibrary.dll
+C:\Users\hp\source\repos\MOD Solution\MOD.AuthLibrary\bin\Debug\netcoreapp3.0\MOD.ModelLibrary.pdb
+C:\Users\hp\source\repos\MOD Solution\MOD.AuthLibrary\obj\Debug\netcoreapp3.0\MOD.AuthLibrary.csproj.CopyComplete
+C:\Users\hp\source\repos\MOD Solution\MOD.AuthLibrary\bin\Debug\netcoreapp3.0\MOD.AuthLibrary.runtimeconfig.json
+C:\Users\hp\source\repos\MOD Solution\MOD.AuthLibrary\bin\Debug\netcoreapp3.0\MOD.AuthLibrary.runtimeconfig.dev.json
+C:\Users\divya\OneDrive\Desktop\seg\MOD Solution\MOD.AuthLibrary\bin\Debug\netcoreapp3.0\MOD.AuthLibrary.deps.json
+C:\Users\divya\OneDrive\Desktop\seg\MOD Solution\MOD.AuthLibrary\bin\Debug\netcoreapp3.0\MOD.AuthLibrary.runtimeconfig.json
+C:\Users\divya\OneDrive\Desktop\seg\MOD Solution\MOD.AuthLibrary\bin\Debug\netcoreapp3.0\MOD.AuthLibrary.runtimeconfig.dev.json
+C:\Users\divya\OneDrive\Desktop\seg\MOD Solution\MOD.AuthLibrary\bin\Debug\netcoreapp3.0\MOD.AuthLibrary.dll
+C:\Users\divya\OneDrive\Desktop\seg\MOD Solution\MOD.AuthLibrary\bin\Debug\netcoreapp3.0\MOD.AuthLibrary.pdb
+C:\Users\divya\OneDrive\Desktop\seg\MOD Solution\MOD.AuthLibrary\bin\Debug\netcoreapp3.0\MOD.ModelLibrary.dll
+C:\Users\divya\OneDrive\Desktop\seg\MOD Solution\MOD.AuthLibrary\bin\Debug\netcoreapp3.0\MOD.ModelLibrary.pdb
+C:\Users\divya\OneDrive\Desktop\seg\MOD Solution\MOD.AuthLibrary\obj\Debug\netcoreapp3.0\MOD.AuthLibrary.csprojAssemblyReference.cache
+C:\Users\divya\OneDrive\Desktop\seg\MOD Solution\MOD.AuthLibrary\obj\Debug\netcoreapp3.0\MOD.AuthLibrary.AssemblyInfoInputs.cache
+C:\Users\divya\OneDrive\Desktop\seg\MOD Solution\MOD.AuthLibrary\obj\Debug\netcoreapp3.0\MOD.AuthLibrary.AssemblyInfo.cs
+C:\Users\divya\OneDrive\Desktop\seg\MOD Solution\MOD.AuthLibrary\obj\Debug\netcoreapp3.0\MOD.AuthLibrary.csproj.CopyComplete
+C:\Users\divya\OneDrive\Desktop\seg\MOD Solution\MOD.AuthLibrary\obj\Debug\netcoreapp3.0\MOD.AuthLibrary.dll
+C:\Users\divya\OneDrive\Desktop\seg\MOD Solution\MOD.AuthLibrary\obj\Debug\netcoreapp3.0\MOD.AuthLibrary.pdb
+C:\Users\hp\Desktop\seg\MOD Solution\MOD.AuthLibrary\bin\Debug\netcoreapp3.0\MOD.AuthLibrary.deps.json
+C:\Users\hp\Desktop\seg\MOD Solution\MOD.AuthLibrary\bin\Debug\netcoreapp3.0\MOD.AuthLibrary.runtimeconfig.json
+C:\Users\hp\Desktop\seg\MOD Solution\MOD.AuthLibrary\bin\Debug\netcoreapp3.0\MOD.AuthLibrary.runtimeconfig.dev.json
+C:\Users\hp\Desktop\seg\MOD Solution\MOD.AuthLibrary\bin\Debug\netcoreapp3.0\MOD.AuthLibrary.dll
+C:\Users\hp\Desktop\seg\MOD Solution\MOD.AuthLibrary\bin\Debug\netcoreapp3.0\MOD.AuthLibrary.pdb
+C:\Users\hp\Desktop\seg\MOD Solution\MOD.AuthLibrary\bin\Debug\netcoreapp3.0\MOD.ModelLibrary.dll
+C:\Users\hp\Desktop\seg\MOD Solution\MOD.AuthLibrary\bin\Debug\netcoreapp3.0\MOD.ModelLibrary.pdb
+C:\Users\hp\Desktop\seg\MOD Solution\MOD.AuthLibrary\obj\Debug\netcoreapp3.0\MOD.AuthLibrary.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\seg\MOD Solution\MOD.AuthLibrary\obj\Debug\netcoreapp3.0\MOD.AuthLibrary.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\seg\MOD Solution\MOD.AuthLibrary\obj\Debug\netcoreapp3.0\MOD.AuthLibrary.AssemblyInfo.cs
+C:\Users\hp\Desktop\seg\MOD Solution\MOD.AuthLibrary\obj\Debug\netcoreapp3.0\MOD.AuthLibrary.csproj.CopyComplete
+C:\Users\hp\Desktop\seg\MOD Solution\MOD.AuthLibrary\obj\Debug\netcoreapp3.0\MOD.AuthLibrary.dll
+C:\Users\hp\Desktop\seg\MOD Solution\MOD.AuthLibrary\obj\Debug\netcoreapp3.0\MOD.AuthLibrary.pdb
+C:\Users\meanvilt10\Downloads\Mentor-On-Demand-Dot-Net-Core-MicroServices-master\MOD Solution\MOD.AuthLibrary\bin\Debug\netcoreapp3.0\MOD.AuthLibrary.deps.json
+C:\Users\meanvilt10\Downloads\Mentor-On-Demand-Dot-Net-Core-MicroServices-master\MOD Solution\MOD.AuthLibrary\bin\Debug\netcoreapp3.0\MOD.AuthLibrary.runtimeconfig.json
+C:\Users\meanvilt10\Downloads\Mentor-On-Demand-Dot-Net-Core-MicroServices-master\MOD Solution\MOD.AuthLibrary\bin\Debug\netcoreapp3.0\MOD.AuthLibrary.runtimeconfig.dev.json
+C:\Users\meanvilt10\Downloads\Mentor-On-Demand-Dot-Net-Core-MicroServices-master\MOD Solution\MOD.AuthLibrary\bin\Debug\netcoreapp3.0\MOD.AuthLibrary.dll
+C:\Users\meanvilt10\Downloads\Mentor-On-Demand-Dot-Net-Core-MicroServices-master\MOD Solution\MOD.AuthLibrary\bin\Debug\netcoreapp3.0\MOD.AuthLibrary.pdb
+C:\Users\meanvilt10\Downloads\Mentor-On-Demand-Dot-Net-Core-MicroServices-master\MOD Solution\MOD.AuthLibrary\bin\Debug\netcoreapp3.0\MOD.ModelLibrary.dll
+C:\Users\meanvilt10\Downloads\Mentor-On-Demand-Dot-Net-Core-MicroServices-master\MOD Solution\MOD.AuthLibrary\bin\Debug\netcoreapp3.0\MOD.ModelLibrary.pdb
+C:\Users\meanvilt10\Downloads\Mentor-On-Demand-Dot-Net-Core-MicroServices-master\MOD Solution\MOD.AuthLibrary\obj\Debug\netcoreapp3.0\MOD.AuthLibrary.csprojAssemblyReference.cache
+C:\Users\meanvilt10\Downloads\Mentor-On-Demand-Dot-Net-Core-MicroServices-master\MOD Solution\MOD.AuthLibrary\obj\Debug\netcoreapp3.0\MOD.AuthLibrary.AssemblyInfoInputs.cache
+C:\Users\meanvilt10\Downloads\Mentor-On-Demand-Dot-Net-Core-MicroServices-master\MOD Solution\MOD.AuthLibrary\obj\Debug\netcoreapp3.0\MOD.AuthLibrary.AssemblyInfo.cs
+C:\Users\meanvilt10\Downloads\Mentor-On-Demand-Dot-Net-Core-MicroServices-master\MOD Solution\MOD.AuthLibrary\obj\Debug\netcoreapp3.0\MOD.AuthLibrary.csproj.CopyComplete
+C:\Users\meanvilt10\Downloads\Mentor-On-Demand-Dot-Net-Core-MicroServices-master\MOD Solution\MOD.AuthLibrary\obj\Debug\netcoreapp3.0\MOD.AuthLibrary.dll
+C:\Users\meanvilt10\Downloads\Mentor-On-Demand-Dot-Net-Core-MicroServices-master\MOD Solution\MOD.AuthLibrary\obj\Debug\netcoreapp3.0\MOD.AuthLibrary.pdb
+C:\Users\HP\Downloads\My project\My project\MOD Solution\MOD.AuthLibrary\bin\Debug\netcoreapp3.0\MOD.AuthLibrary.deps.json
+C:\Users\HP\Downloads\My project\My project\MOD Solution\MOD.AuthLibrary\bin\Debug\netcoreapp3.0\MOD.AuthLibrary.runtimeconfig.json
+C:\Users\HP\Downloads\My project\My project\MOD Solution\MOD.AuthLibrary\bin\Debug\netcoreapp3.0\MOD.AuthLibrary.runtimeconfig.dev.json
+C:\Users\HP\Downloads\My project\My project\MOD Solution\MOD.AuthLibrary\bin\Debug\netcoreapp3.0\MOD.AuthLibrary.dll
+C:\Users\HP\Downloads\My project\My project\MOD Solution\MOD.AuthLibrary\bin\Debug\netcoreapp3.0\MOD.AuthLibrary.pdb
+C:\Users\HP\Downloads\My project\My project\MOD Solution\MOD.AuthLibrary\bin\Debug\netcoreapp3.0\MOD.ModelLibrary.dll
+C:\Users\HP\Downloads\My project\My project\MOD Solution\MOD.AuthLibrary\bin\Debug\netcoreapp3.0\MOD.ModelLibrary.pdb
+C:\Users\HP\Downloads\My project\My project\MOD Solution\MOD.AuthLibrary\obj\Debug\netcoreapp3.0\MOD.AuthLibrary.csprojAssemblyReference.cache
+C:\Users\HP\Downloads\My project\My project\MOD Solution\MOD.AuthLibrary\obj\Debug\netcoreapp3.0\MOD.AuthLibrary.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\My project\My project\MOD Solution\MOD.AuthLibrary\obj\Debug\netcoreapp3.0\MOD.AuthLibrary.AssemblyInfo.cs
+C:\Users\HP\Downloads\My project\My project\MOD Solution\MOD.AuthLibrary\obj\Debug\netcoreapp3.0\MOD.AuthLibrary.csproj.CopyComplete
+C:\Users\HP\Downloads\My project\My project\MOD Solution\MOD.AuthLibrary\obj\Debug\netcoreapp3.0\MOD.AuthLibrary.dll
+C:\Users\HP\Downloads\My project\My project\MOD Solution\MOD.AuthLibrary\obj\Debug\netcoreapp3.0\MOD.AuthLibrary.pdb

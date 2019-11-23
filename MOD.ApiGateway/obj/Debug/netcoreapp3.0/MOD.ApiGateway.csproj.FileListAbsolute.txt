@@ -1,0 +1,87 @@
+C:\Users\hp\Desktop\seg\MOD Solution\MOD.ApiGateway\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\hp\Desktop\seg\MOD Solution\MOD.ApiGateway\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\hp\Desktop\seg\MOD Solution\MOD.ApiGateway\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\hp\Desktop\seg\MOD Solution\MOD.ApiGateway\bin\Debug\netcoreapp3.0\MOD.ApiGateway.exe
+C:\Users\hp\Desktop\seg\MOD Solution\MOD.ApiGateway\obj\Debug\netcoreapp3.0\MOD.ApiGateway.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\seg\MOD Solution\MOD.ApiGateway\obj\Debug\netcoreapp3.0\staticwebassets\MOD.ApiGateway.StaticWebAssets.Manifest.cache
+C:\Users\hp\Desktop\seg\MOD Solution\MOD.ApiGateway\obj\Debug\netcoreapp3.0\staticwebassets\MOD.ApiGateway.StaticWebAssets.xml
+C:\Users\hp\Desktop\seg\MOD Solution\MOD.ApiGateway\obj\Debug\netcoreapp3.0\MOD.ApiGateway.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\seg\MOD Solution\MOD.ApiGateway\obj\Debug\netcoreapp3.0\MOD.ApiGateway.AssemblyInfo.cs
+C:\Users\hp\Desktop\seg\MOD Solution\MOD.ApiGateway\obj\Debug\netcoreapp3.0\MOD.ApiGateway.RazorTargetAssemblyInfo.cache
+C:\Users\hp\Desktop\seg\MOD Solution\MOD.ApiGateway\bin\Debug\netcoreapp3.0\ocelot.json
+C:\Users\hp\Desktop\seg\MOD Solution\MOD.ApiGateway\bin\Debug\netcoreapp3.0\MOD.ApiGateway.deps.json
+C:\Users\hp\Desktop\seg\MOD Solution\MOD.ApiGateway\bin\Debug\netcoreapp3.0\MOD.ApiGateway.runtimeconfig.json
+C:\Users\hp\Desktop\seg\MOD Solution\MOD.ApiGateway\bin\Debug\netcoreapp3.0\MOD.ApiGateway.runtimeconfig.dev.json
+C:\Users\hp\Desktop\seg\MOD Solution\MOD.ApiGateway\bin\Debug\netcoreapp3.0\MOD.ApiGateway.dll
+C:\Users\hp\Desktop\seg\MOD Solution\MOD.ApiGateway\bin\Debug\netcoreapp3.0\MOD.ApiGateway.pdb
+C:\Users\hp\Desktop\seg\MOD Solution\MOD.ApiGateway\bin\Debug\netcoreapp3.0\FluentValidation.dll
+C:\Users\hp\Desktop\seg\MOD Solution\MOD.ApiGateway\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\hp\Desktop\seg\MOD Solution\MOD.ApiGateway\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\hp\Desktop\seg\MOD Solution\MOD.ApiGateway\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\hp\Desktop\seg\MOD Solution\MOD.ApiGateway\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\hp\Desktop\seg\MOD Solution\MOD.ApiGateway\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\hp\Desktop\seg\MOD Solution\MOD.ApiGateway\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+C:\Users\hp\Desktop\seg\MOD Solution\MOD.ApiGateway\bin\Debug\netcoreapp3.0\Ocelot.dll
+C:\Users\hp\Desktop\seg\MOD Solution\MOD.ApiGateway\obj\Debug\netcoreapp3.0\MOD.ApiGateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hp\Desktop\seg\MOD Solution\MOD.ApiGateway\obj\Debug\netcoreapp3.0\MOD.ApiGateway.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\Desktop\seg\MOD Solution\MOD.ApiGateway\obj\Debug\netcoreapp3.0\MOD.ApiGateway.csproj.CopyComplete
+C:\Users\hp\Desktop\seg\MOD Solution\MOD.ApiGateway\obj\Debug\netcoreapp3.0\MOD.ApiGateway.dll
+C:\Users\hp\Desktop\seg\MOD Solution\MOD.ApiGateway\obj\Debug\netcoreapp3.0\MOD.ApiGateway.pdb
+C:\Users\meanvilt10\Downloads\Mentor-On-Demand-Dot-Net-Core-MicroServices-master\MOD Solution\MOD.ApiGateway\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\meanvilt10\Downloads\Mentor-On-Demand-Dot-Net-Core-MicroServices-master\MOD Solution\MOD.ApiGateway\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\meanvilt10\Downloads\Mentor-On-Demand-Dot-Net-Core-MicroServices-master\MOD Solution\MOD.ApiGateway\bin\Debug\netcoreapp3.0\ocelot.json
+C:\Users\meanvilt10\Downloads\Mentor-On-Demand-Dot-Net-Core-MicroServices-master\MOD Solution\MOD.ApiGateway\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\meanvilt10\Downloads\Mentor-On-Demand-Dot-Net-Core-MicroServices-master\MOD Solution\MOD.ApiGateway\bin\Debug\netcoreapp3.0\MOD.ApiGateway.exe
+C:\Users\meanvilt10\Downloads\Mentor-On-Demand-Dot-Net-Core-MicroServices-master\MOD Solution\MOD.ApiGateway\bin\Debug\netcoreapp3.0\MOD.ApiGateway.deps.json
+C:\Users\meanvilt10\Downloads\Mentor-On-Demand-Dot-Net-Core-MicroServices-master\MOD Solution\MOD.ApiGateway\bin\Debug\netcoreapp3.0\MOD.ApiGateway.runtimeconfig.json
+C:\Users\meanvilt10\Downloads\Mentor-On-Demand-Dot-Net-Core-MicroServices-master\MOD Solution\MOD.ApiGateway\bin\Debug\netcoreapp3.0\MOD.ApiGateway.runtimeconfig.dev.json
+C:\Users\meanvilt10\Downloads\Mentor-On-Demand-Dot-Net-Core-MicroServices-master\MOD Solution\MOD.ApiGateway\bin\Debug\netcoreapp3.0\MOD.ApiGateway.dll
+C:\Users\meanvilt10\Downloads\Mentor-On-Demand-Dot-Net-Core-MicroServices-master\MOD Solution\MOD.ApiGateway\bin\Debug\netcoreapp3.0\MOD.ApiGateway.pdb
+C:\Users\meanvilt10\Downloads\Mentor-On-Demand-Dot-Net-Core-MicroServices-master\MOD Solution\MOD.ApiGateway\bin\Debug\netcoreapp3.0\FluentValidation.dll
+C:\Users\meanvilt10\Downloads\Mentor-On-Demand-Dot-Net-Core-MicroServices-master\MOD Solution\MOD.ApiGateway\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\meanvilt10\Downloads\Mentor-On-Demand-Dot-Net-Core-MicroServices-master\MOD Solution\MOD.ApiGateway\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\meanvilt10\Downloads\Mentor-On-Demand-Dot-Net-Core-MicroServices-master\MOD Solution\MOD.ApiGateway\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\meanvilt10\Downloads\Mentor-On-Demand-Dot-Net-Core-MicroServices-master\MOD Solution\MOD.ApiGateway\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\meanvilt10\Downloads\Mentor-On-Demand-Dot-Net-Core-MicroServices-master\MOD Solution\MOD.ApiGateway\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\meanvilt10\Downloads\Mentor-On-Demand-Dot-Net-Core-MicroServices-master\MOD Solution\MOD.ApiGateway\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+C:\Users\meanvilt10\Downloads\Mentor-On-Demand-Dot-Net-Core-MicroServices-master\MOD Solution\MOD.ApiGateway\bin\Debug\netcoreapp3.0\Ocelot.dll
+C:\Users\meanvilt10\Downloads\Mentor-On-Demand-Dot-Net-Core-MicroServices-master\MOD Solution\MOD.ApiGateway\obj\Debug\netcoreapp3.0\MOD.ApiGateway.csprojAssemblyReference.cache
+C:\Users\meanvilt10\Downloads\Mentor-On-Demand-Dot-Net-Core-MicroServices-master\MOD Solution\MOD.ApiGateway\obj\Debug\netcoreapp3.0\staticwebassets\MOD.ApiGateway.StaticWebAssets.Manifest.cache
+C:\Users\meanvilt10\Downloads\Mentor-On-Demand-Dot-Net-Core-MicroServices-master\MOD Solution\MOD.ApiGateway\obj\Debug\netcoreapp3.0\staticwebassets\MOD.ApiGateway.StaticWebAssets.xml
+C:\Users\meanvilt10\Downloads\Mentor-On-Demand-Dot-Net-Core-MicroServices-master\MOD Solution\MOD.ApiGateway\obj\Debug\netcoreapp3.0\MOD.ApiGateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\meanvilt10\Downloads\Mentor-On-Demand-Dot-Net-Core-MicroServices-master\MOD Solution\MOD.ApiGateway\obj\Debug\netcoreapp3.0\MOD.ApiGateway.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\meanvilt10\Downloads\Mentor-On-Demand-Dot-Net-Core-MicroServices-master\MOD Solution\MOD.ApiGateway\obj\Debug\netcoreapp3.0\MOD.ApiGateway.AssemblyInfoInputs.cache
+C:\Users\meanvilt10\Downloads\Mentor-On-Demand-Dot-Net-Core-MicroServices-master\MOD Solution\MOD.ApiGateway\obj\Debug\netcoreapp3.0\MOD.ApiGateway.AssemblyInfo.cs
+C:\Users\meanvilt10\Downloads\Mentor-On-Demand-Dot-Net-Core-MicroServices-master\MOD Solution\MOD.ApiGateway\obj\Debug\netcoreapp3.0\MOD.ApiGateway.RazorTargetAssemblyInfo.cache
+C:\Users\meanvilt10\Downloads\Mentor-On-Demand-Dot-Net-Core-MicroServices-master\MOD Solution\MOD.ApiGateway\obj\Debug\netcoreapp3.0\MOD.ApiGateway.csproj.CopyComplete
+C:\Users\meanvilt10\Downloads\Mentor-On-Demand-Dot-Net-Core-MicroServices-master\MOD Solution\MOD.ApiGateway\obj\Debug\netcoreapp3.0\MOD.ApiGateway.dll
+C:\Users\meanvilt10\Downloads\Mentor-On-Demand-Dot-Net-Core-MicroServices-master\MOD Solution\MOD.ApiGateway\obj\Debug\netcoreapp3.0\MOD.ApiGateway.pdb
+C:\Users\HP\Downloads\My project\My project\MOD Solution\MOD.ApiGateway\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\HP\Downloads\My project\My project\MOD Solution\MOD.ApiGateway\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\HP\Downloads\My project\My project\MOD Solution\MOD.ApiGateway\bin\Debug\netcoreapp3.0\ocelot.json
+C:\Users\HP\Downloads\My project\My project\MOD Solution\MOD.ApiGateway\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\HP\Downloads\My project\My project\MOD Solution\MOD.ApiGateway\bin\Debug\netcoreapp3.0\MOD.ApiGateway.exe
+C:\Users\HP\Downloads\My project\My project\MOD Solution\MOD.ApiGateway\bin\Debug\netcoreapp3.0\MOD.ApiGateway.deps.json
+C:\Users\HP\Downloads\My project\My project\MOD Solution\MOD.ApiGateway\bin\Debug\netcoreapp3.0\MOD.ApiGateway.runtimeconfig.json
+C:\Users\HP\Downloads\My project\My project\MOD Solution\MOD.ApiGateway\bin\Debug\netcoreapp3.0\MOD.ApiGateway.runtimeconfig.dev.json
+C:\Users\HP\Downloads\My project\My project\MOD Solution\MOD.ApiGateway\bin\Debug\netcoreapp3.0\MOD.ApiGateway.dll
+C:\Users\HP\Downloads\My project\My project\MOD Solution\MOD.ApiGateway\bin\Debug\netcoreapp3.0\MOD.ApiGateway.pdb
+C:\Users\HP\Downloads\My project\My project\MOD Solution\MOD.ApiGateway\bin\Debug\netcoreapp3.0\FluentValidation.dll
+C:\Users\HP\Downloads\My project\My project\MOD Solution\MOD.ApiGateway\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\HP\Downloads\My project\My project\MOD Solution\MOD.ApiGateway\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\HP\Downloads\My project\My project\MOD Solution\MOD.ApiGateway\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\HP\Downloads\My project\My project\MOD Solution\MOD.ApiGateway\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\HP\Downloads\My project\My project\MOD Solution\MOD.ApiGateway\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\HP\Downloads\My project\My project\MOD Solution\MOD.ApiGateway\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+C:\Users\HP\Downloads\My project\My project\MOD Solution\MOD.ApiGateway\bin\Debug\netcoreapp3.0\Ocelot.dll
+C:\Users\HP\Downloads\My project\My project\MOD Solution\MOD.ApiGateway\obj\Debug\netcoreapp3.0\MOD.ApiGateway.csprojAssemblyReference.cache
+C:\Users\HP\Downloads\My project\My project\MOD Solution\MOD.ApiGateway\obj\Debug\netcoreapp3.0\staticwebassets\MOD.ApiGateway.StaticWebAssets.Manifest.cache
+C:\Users\HP\Downloads\My project\My project\MOD Solution\MOD.ApiGateway\obj\Debug\netcoreapp3.0\staticwebassets\MOD.ApiGateway.StaticWebAssets.xml
+C:\Users\HP\Downloads\My project\My project\MOD Solution\MOD.ApiGateway\obj\Debug\netcoreapp3.0\MOD.ApiGateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HP\Downloads\My project\My project\MOD Solution\MOD.ApiGateway\obj\Debug\netcoreapp3.0\MOD.ApiGateway.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Downloads\My project\My project\MOD Solution\MOD.ApiGateway\obj\Debug\netcoreapp3.0\MOD.ApiGateway.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\My project\My project\MOD Solution\MOD.ApiGateway\obj\Debug\netcoreapp3.0\MOD.ApiGateway.AssemblyInfo.cs
+C:\Users\HP\Downloads\My project\My project\MOD Solution\MOD.ApiGateway\obj\Debug\netcoreapp3.0\MOD.ApiGateway.RazorTargetAssemblyInfo.cache
+C:\Users\HP\Downloads\My project\My project\MOD Solution\MOD.ApiGateway\obj\Debug\netcoreapp3.0\MOD.ApiGateway.csproj.CopyComplete
+C:\Users\HP\Downloads\My project\My project\MOD Solution\MOD.ApiGateway\obj\Debug\netcoreapp3.0\MOD.ApiGateway.dll
+C:\Users\HP\Downloads\My project\My project\MOD Solution\MOD.ApiGateway\obj\Debug\netcoreapp3.0\MOD.ApiGateway.pdb

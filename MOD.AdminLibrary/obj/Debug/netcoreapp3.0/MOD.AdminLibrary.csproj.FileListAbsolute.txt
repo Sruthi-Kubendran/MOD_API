@@ -1,0 +1,65 @@
+C:\Users\hp\source\repos\MOD Solution\MOD.AdminLibrary\bin\Debug\netcoreapp3.0\MOD.AdminLibrary.deps.json
+C:\Users\hp\source\repos\MOD Solution\MOD.AdminLibrary\bin\Debug\netcoreapp3.0\MOD.AdminLibrary.dll
+C:\Users\hp\source\repos\MOD Solution\MOD.AdminLibrary\bin\Debug\netcoreapp3.0\MOD.AdminLibrary.pdb
+C:\Users\hp\source\repos\MOD Solution\MOD.AdminLibrary\obj\Debug\netcoreapp3.0\MOD.AdminLibrary.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\MOD Solution\MOD.AdminLibrary\obj\Debug\netcoreapp3.0\MOD.AdminLibrary.AssemblyInfo.cs
+C:\Users\hp\source\repos\MOD Solution\MOD.AdminLibrary\obj\Debug\netcoreapp3.0\MOD.AdminLibrary.dll
+C:\Users\hp\source\repos\MOD Solution\MOD.AdminLibrary\obj\Debug\netcoreapp3.0\MOD.AdminLibrary.pdb
+C:\Users\hp\source\repos\MOD Solution\MOD.AdminLibrary\obj\Debug\netcoreapp3.0\MOD.AdminLibrary.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\MOD Solution\MOD.AdminLibrary\bin\Debug\netcoreapp3.0\MOD.DtosLibrary.dll
+C:\Users\hp\source\repos\MOD Solution\MOD.AdminLibrary\bin\Debug\netcoreapp3.0\MOD.DtosLibrary.pdb
+C:\Users\hp\source\repos\MOD Solution\MOD.AdminLibrary\obj\Debug\netcoreapp3.0\MOD.AdminLibrary.csproj.CopyComplete
+C:\Users\hp\source\repos\MOD Solution\MOD.AdminLibrary\bin\Debug\netcoreapp3.0\MOD.ModelLibrary.dll
+C:\Users\hp\source\repos\MOD Solution\MOD.AdminLibrary\bin\Debug\netcoreapp3.0\MOD.ModelLibrary.pdb
+C:\Users\divya\OneDrive\Desktop\seg\MOD Solution\MOD.AdminLibrary\bin\Debug\netcoreapp3.0\MOD.AdminLibrary.deps.json
+C:\Users\divya\OneDrive\Desktop\seg\MOD Solution\MOD.AdminLibrary\bin\Debug\netcoreapp3.0\MOD.AdminLibrary.dll
+C:\Users\divya\OneDrive\Desktop\seg\MOD Solution\MOD.AdminLibrary\bin\Debug\netcoreapp3.0\MOD.AdminLibrary.pdb
+C:\Users\divya\OneDrive\Desktop\seg\MOD Solution\MOD.AdminLibrary\bin\Debug\netcoreapp3.0\MOD.DtosLibrary.dll
+C:\Users\divya\OneDrive\Desktop\seg\MOD Solution\MOD.AdminLibrary\bin\Debug\netcoreapp3.0\MOD.ModelLibrary.dll
+C:\Users\divya\OneDrive\Desktop\seg\MOD Solution\MOD.AdminLibrary\bin\Debug\netcoreapp3.0\MOD.DtosLibrary.pdb
+C:\Users\divya\OneDrive\Desktop\seg\MOD Solution\MOD.AdminLibrary\bin\Debug\netcoreapp3.0\MOD.ModelLibrary.pdb
+C:\Users\divya\OneDrive\Desktop\seg\MOD Solution\MOD.AdminLibrary\obj\Debug\netcoreapp3.0\MOD.AdminLibrary.csprojAssemblyReference.cache
+C:\Users\divya\OneDrive\Desktop\seg\MOD Solution\MOD.AdminLibrary\obj\Debug\netcoreapp3.0\MOD.AdminLibrary.AssemblyInfoInputs.cache
+C:\Users\divya\OneDrive\Desktop\seg\MOD Solution\MOD.AdminLibrary\obj\Debug\netcoreapp3.0\MOD.AdminLibrary.AssemblyInfo.cs
+C:\Users\divya\OneDrive\Desktop\seg\MOD Solution\MOD.AdminLibrary\obj\Debug\netcoreapp3.0\MOD.AdminLibrary.csproj.CopyComplete
+C:\Users\divya\OneDrive\Desktop\seg\MOD Solution\MOD.AdminLibrary\obj\Debug\netcoreapp3.0\MOD.AdminLibrary.dll
+C:\Users\divya\OneDrive\Desktop\seg\MOD Solution\MOD.AdminLibrary\obj\Debug\netcoreapp3.0\MOD.AdminLibrary.pdb
+C:\Users\hp\Desktop\seg\MOD Solution\MOD.AdminLibrary\bin\Debug\netcoreapp3.0\MOD.AdminLibrary.deps.json
+C:\Users\hp\Desktop\seg\MOD Solution\MOD.AdminLibrary\bin\Debug\netcoreapp3.0\MOD.AdminLibrary.dll
+C:\Users\hp\Desktop\seg\MOD Solution\MOD.AdminLibrary\bin\Debug\netcoreapp3.0\MOD.AdminLibrary.pdb
+C:\Users\hp\Desktop\seg\MOD Solution\MOD.AdminLibrary\bin\Debug\netcoreapp3.0\MOD.DtosLibrary.dll
+C:\Users\hp\Desktop\seg\MOD Solution\MOD.AdminLibrary\bin\Debug\netcoreapp3.0\MOD.ModelLibrary.dll
+C:\Users\hp\Desktop\seg\MOD Solution\MOD.AdminLibrary\bin\Debug\netcoreapp3.0\MOD.DtosLibrary.pdb
+C:\Users\hp\Desktop\seg\MOD Solution\MOD.AdminLibrary\bin\Debug\netcoreapp3.0\MOD.ModelLibrary.pdb
+C:\Users\hp\Desktop\seg\MOD Solution\MOD.AdminLibrary\obj\Debug\netcoreapp3.0\MOD.AdminLibrary.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\seg\MOD Solution\MOD.AdminLibrary\obj\Debug\netcoreapp3.0\MOD.AdminLibrary.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\seg\MOD Solution\MOD.AdminLibrary\obj\Debug\netcoreapp3.0\MOD.AdminLibrary.AssemblyInfo.cs
+C:\Users\hp\Desktop\seg\MOD Solution\MOD.AdminLibrary\obj\Debug\netcoreapp3.0\MOD.AdminLibrary.csproj.CopyComplete
+C:\Users\hp\Desktop\seg\MOD Solution\MOD.AdminLibrary\obj\Debug\netcoreapp3.0\MOD.AdminLibrary.dll
+C:\Users\hp\Desktop\seg\MOD Solution\MOD.AdminLibrary\obj\Debug\netcoreapp3.0\MOD.AdminLibrary.pdb
+C:\Users\meanvilt10\Downloads\Mentor-On-Demand-Dot-Net-Core-MicroServices-master\MOD Solution\MOD.AdminLibrary\bin\Debug\netcoreapp3.0\MOD.AdminLibrary.deps.json
+C:\Users\meanvilt10\Downloads\Mentor-On-Demand-Dot-Net-Core-MicroServices-master\MOD Solution\MOD.AdminLibrary\bin\Debug\netcoreapp3.0\MOD.AdminLibrary.dll
+C:\Users\meanvilt10\Downloads\Mentor-On-Demand-Dot-Net-Core-MicroServices-master\MOD Solution\MOD.AdminLibrary\bin\Debug\netcoreapp3.0\MOD.AdminLibrary.pdb
+C:\Users\meanvilt10\Downloads\Mentor-On-Demand-Dot-Net-Core-MicroServices-master\MOD Solution\MOD.AdminLibrary\bin\Debug\netcoreapp3.0\MOD.DtosLibrary.dll
+C:\Users\meanvilt10\Downloads\Mentor-On-Demand-Dot-Net-Core-MicroServices-master\MOD Solution\MOD.AdminLibrary\bin\Debug\netcoreapp3.0\MOD.ModelLibrary.dll
+C:\Users\meanvilt10\Downloads\Mentor-On-Demand-Dot-Net-Core-MicroServices-master\MOD Solution\MOD.AdminLibrary\bin\Debug\netcoreapp3.0\MOD.DtosLibrary.pdb
+C:\Users\meanvilt10\Downloads\Mentor-On-Demand-Dot-Net-Core-MicroServices-master\MOD Solution\MOD.AdminLibrary\bin\Debug\netcoreapp3.0\MOD.ModelLibrary.pdb
+C:\Users\meanvilt10\Downloads\Mentor-On-Demand-Dot-Net-Core-MicroServices-master\MOD Solution\MOD.AdminLibrary\obj\Debug\netcoreapp3.0\MOD.AdminLibrary.csprojAssemblyReference.cache
+C:\Users\meanvilt10\Downloads\Mentor-On-Demand-Dot-Net-Core-MicroServices-master\MOD Solution\MOD.AdminLibrary\obj\Debug\netcoreapp3.0\MOD.AdminLibrary.AssemblyInfoInputs.cache
+C:\Users\meanvilt10\Downloads\Mentor-On-Demand-Dot-Net-Core-MicroServices-master\MOD Solution\MOD.AdminLibrary\obj\Debug\netcoreapp3.0\MOD.AdminLibrary.AssemblyInfo.cs
+C:\Users\meanvilt10\Downloads\Mentor-On-Demand-Dot-Net-Core-MicroServices-master\MOD Solution\MOD.AdminLibrary\obj\Debug\netcoreapp3.0\MOD.AdminLibrary.csproj.CopyComplete
+C:\Users\meanvilt10\Downloads\Mentor-On-Demand-Dot-Net-Core-MicroServices-master\MOD Solution\MOD.AdminLibrary\obj\Debug\netcoreapp3.0\MOD.AdminLibrary.dll
+C:\Users\meanvilt10\Downloads\Mentor-On-Demand-Dot-Net-Core-MicroServices-master\MOD Solution\MOD.AdminLibrary\obj\Debug\netcoreapp3.0\MOD.AdminLibrary.pdb
+C:\Users\HP\Downloads\My project\My project\MOD Solution\MOD.AdminLibrary\bin\Debug\netcoreapp3.0\MOD.AdminLibrary.deps.json
+C:\Users\HP\Downloads\My project\My project\MOD Solution\MOD.AdminLibrary\bin\Debug\netcoreapp3.0\MOD.AdminLibrary.dll
+C:\Users\HP\Downloads\My project\My project\MOD Solution\MOD.AdminLibrary\bin\Debug\netcoreapp3.0\MOD.AdminLibrary.pdb
+C:\Users\HP\Downloads\My project\My project\MOD Solution\MOD.AdminLibrary\bin\Debug\netcoreapp3.0\MOD.DtosLibrary.dll
+C:\Users\HP\Downloads\My project\My project\MOD Solution\MOD.AdminLibrary\bin\Debug\netcoreapp3.0\MOD.ModelLibrary.dll
+C:\Users\HP\Downloads\My project\My project\MOD Solution\MOD.AdminLibrary\bin\Debug\netcoreapp3.0\MOD.DtosLibrary.pdb
+C:\Users\HP\Downloads\My project\My project\MOD Solution\MOD.AdminLibrary\bin\Debug\netcoreapp3.0\MOD.ModelLibrary.pdb
+C:\Users\HP\Downloads\My project\My project\MOD Solution\MOD.AdminLibrary\obj\Debug\netcoreapp3.0\MOD.AdminLibrary.csprojAssemblyReference.cache
+C:\Users\HP\Downloads\My project\My project\MOD Solution\MOD.AdminLibrary\obj\Debug\netcoreapp3.0\MOD.AdminLibrary.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\My project\My project\MOD Solution\MOD.AdminLibrary\obj\Debug\netcoreapp3.0\MOD.AdminLibrary.AssemblyInfo.cs
+C:\Users\HP\Downloads\My project\My project\MOD Solution\MOD.AdminLibrary\obj\Debug\netcoreapp3.0\MOD.AdminLibrary.csproj.CopyComplete
+C:\Users\HP\Downloads\My project\My project\MOD Solution\MOD.AdminLibrary\obj\Debug\netcoreapp3.0\MOD.AdminLibrary.dll
+C:\Users\HP\Downloads\My project\My project\MOD Solution\MOD.AdminLibrary\obj\Debug\netcoreapp3.0\MOD.AdminLibrary.pdb

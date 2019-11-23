@@ -1,0 +1,40 @@
+C:\Users\hp\source\repos\MOD Solution\MOD.DtosLibrary\bin\Debug\netcoreapp3.0\MOD.DtosLibrary.deps.json
+C:\Users\hp\source\repos\MOD Solution\MOD.DtosLibrary\bin\Debug\netcoreapp3.0\MOD.DtosLibrary.dll
+C:\Users\hp\source\repos\MOD Solution\MOD.DtosLibrary\bin\Debug\netcoreapp3.0\MOD.DtosLibrary.pdb
+C:\Users\hp\source\repos\MOD Solution\MOD.DtosLibrary\obj\Debug\netcoreapp3.0\MOD.DtosLibrary.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\MOD Solution\MOD.DtosLibrary\obj\Debug\netcoreapp3.0\MOD.DtosLibrary.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\MOD Solution\MOD.DtosLibrary\obj\Debug\netcoreapp3.0\MOD.DtosLibrary.AssemblyInfo.cs
+C:\Users\hp\source\repos\MOD Solution\MOD.DtosLibrary\obj\Debug\netcoreapp3.0\MOD.DtosLibrary.dll
+C:\Users\hp\source\repos\MOD Solution\MOD.DtosLibrary\obj\Debug\netcoreapp3.0\MOD.DtosLibrary.pdb
+C:\Users\divya\OneDrive\Desktop\seg\MOD Solution\MOD.DtosLibrary\bin\Debug\netcoreapp3.0\MOD.DtosLibrary.deps.json
+C:\Users\divya\OneDrive\Desktop\seg\MOD Solution\MOD.DtosLibrary\bin\Debug\netcoreapp3.0\MOD.DtosLibrary.dll
+C:\Users\divya\OneDrive\Desktop\seg\MOD Solution\MOD.DtosLibrary\bin\Debug\netcoreapp3.0\MOD.DtosLibrary.pdb
+C:\Users\divya\OneDrive\Desktop\seg\MOD Solution\MOD.DtosLibrary\obj\Debug\netcoreapp3.0\MOD.DtosLibrary.csprojAssemblyReference.cache
+C:\Users\divya\OneDrive\Desktop\seg\MOD Solution\MOD.DtosLibrary\obj\Debug\netcoreapp3.0\MOD.DtosLibrary.AssemblyInfoInputs.cache
+C:\Users\divya\OneDrive\Desktop\seg\MOD Solution\MOD.DtosLibrary\obj\Debug\netcoreapp3.0\MOD.DtosLibrary.AssemblyInfo.cs
+C:\Users\divya\OneDrive\Desktop\seg\MOD Solution\MOD.DtosLibrary\obj\Debug\netcoreapp3.0\MOD.DtosLibrary.dll
+C:\Users\divya\OneDrive\Desktop\seg\MOD Solution\MOD.DtosLibrary\obj\Debug\netcoreapp3.0\MOD.DtosLibrary.pdb
+C:\Users\hp\Desktop\seg\MOD Solution\MOD.DtosLibrary\bin\Debug\netcoreapp3.0\MOD.DtosLibrary.deps.json
+C:\Users\hp\Desktop\seg\MOD Solution\MOD.DtosLibrary\bin\Debug\netcoreapp3.0\MOD.DtosLibrary.dll
+C:\Users\hp\Desktop\seg\MOD Solution\MOD.DtosLibrary\bin\Debug\netcoreapp3.0\MOD.DtosLibrary.pdb
+C:\Users\hp\Desktop\seg\MOD Solution\MOD.DtosLibrary\obj\Debug\netcoreapp3.0\MOD.DtosLibrary.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\seg\MOD Solution\MOD.DtosLibrary\obj\Debug\netcoreapp3.0\MOD.DtosLibrary.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\seg\MOD Solution\MOD.DtosLibrary\obj\Debug\netcoreapp3.0\MOD.DtosLibrary.AssemblyInfo.cs
+C:\Users\hp\Desktop\seg\MOD Solution\MOD.DtosLibrary\obj\Debug\netcoreapp3.0\MOD.DtosLibrary.dll
+C:\Users\hp\Desktop\seg\MOD Solution\MOD.DtosLibrary\obj\Debug\netcoreapp3.0\MOD.DtosLibrary.pdb
+C:\Users\meanvilt10\Downloads\Mentor-On-Demand-Dot-Net-Core-MicroServices-master\MOD Solution\MOD.DtosLibrary\bin\Debug\netcoreapp3.0\MOD.DtosLibrary.deps.json
+C:\Users\meanvilt10\Downloads\Mentor-On-Demand-Dot-Net-Core-MicroServices-master\MOD Solution\MOD.DtosLibrary\bin\Debug\netcoreapp3.0\MOD.DtosLibrary.dll
+C:\Users\meanvilt10\Downloads\Mentor-On-Demand-Dot-Net-Core-MicroServices-master\MOD Solution\MOD.DtosLibrary\bin\Debug\netcoreapp3.0\MOD.DtosLibrary.pdb
+C:\Users\meanvilt10\Downloads\Mentor-On-Demand-Dot-Net-Core-MicroServices-master\MOD Solution\MOD.DtosLibrary\obj\Debug\netcoreapp3.0\MOD.DtosLibrary.csprojAssemblyReference.cache
+C:\Users\meanvilt10\Downloads\Mentor-On-Demand-Dot-Net-Core-MicroServices-master\MOD Solution\MOD.DtosLibrary\obj\Debug\netcoreapp3.0\MOD.DtosLibrary.AssemblyInfoInputs.cache
+C:\Users\meanvilt10\Downloads\Mentor-On-Demand-Dot-Net-Core-MicroServices-master\MOD Solution\MOD.DtosLibrary\obj\Debug\netcoreapp3.0\MOD.DtosLibrary.AssemblyInfo.cs
+C:\Users\meanvilt10\Downloads\Mentor-On-Demand-Dot-Net-Core-MicroServices-master\MOD Solution\MOD.DtosLibrary\obj\Debug\netcoreapp3.0\MOD.DtosLibrary.dll
+C:\Users\meanvilt10\Downloads\Mentor-On-Demand-Dot-Net-Core-MicroServices-master\MOD Solution\MOD.DtosLibrary\obj\Debug\netcoreapp3.0\MOD.DtosLibrary.pdb
+C:\Users\HP\Downloads\My project\My project\MOD Solution\MOD.DtosLibrary\bin\Debug\netcoreapp3.0\MOD.DtosLibrary.deps.json
+C:\Users\HP\Downloads\My project\My project\MOD Solution\MOD.DtosLibrary\bin\Debug\netcoreapp3.0\MOD.DtosLibrary.dll
+C:\Users\HP\Downloads\My project\My project\MOD Solution\MOD.DtosLibrary\bin\Debug\netcoreapp3.0\MOD.DtosLibrary.pdb
+C:\Users\HP\Downloads\My project\My project\MOD Solution\MOD.DtosLibrary\obj\Debug\netcoreapp3.0\MOD.DtosLibrary.csprojAssemblyReference.cache
+C:\Users\HP\Downloads\My project\My project\MOD Solution\MOD.DtosLibrary\obj\Debug\netcoreapp3.0\MOD.DtosLibrary.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\My project\My project\MOD Solution\MOD.DtosLibrary\obj\Debug\netcoreapp3.0\MOD.DtosLibrary.AssemblyInfo.cs
+C:\Users\HP\Downloads\My project\My project\MOD Solution\MOD.DtosLibrary\obj\Debug\netcoreapp3.0\MOD.DtosLibrary.dll
+C:\Users\HP\Downloads\My project\My project\MOD Solution\MOD.DtosLibrary\obj\Debug\netcoreapp3.0\MOD.DtosLibrary.pdb

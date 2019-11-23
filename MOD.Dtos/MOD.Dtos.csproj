@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MOD.AdminLibrary\MOD.AdminLibrary.csproj" />
+    <ProjectReference Include="..\MOD.AdminService\MOD.AdminService.csproj" />
+    <ProjectReference Include="..\MOD.AuthLibrary\MOD.AuthLibrary.csproj" />
+    <ProjectReference Include="..\MOD.AuthService\MOD.AuthService.csproj" />
+    <ProjectReference Include="..\MOD.MentorLibrary\MOD.MentorLibrary.csproj" />
+    <ProjectReference Include="..\MOD.MentorService\MOD.MentorService.csproj" />
+    <ProjectReference Include="..\MOD.StudentLibrary\MOD.StudentLibrary.csproj" />
+    <ProjectReference Include="..\MOD.StudentService\MOD.StudentService.csproj" />
+  </ItemGroup>
+
+</Project>
